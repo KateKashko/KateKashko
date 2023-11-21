@@ -1,5 +1,5 @@
 <p align="center">
-  ### Hi there 👋
+  <h2>Hi there 👋</h2> 
 <h4> My name is Katerina <br/>
 I am an iOS Developer. </h4>
 </p>
