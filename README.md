@@ -1,10 +1,7 @@
-<p align="center">
-  <h2> Hi there 👋</h2> 
-</p>
-<p align="center">
-<h4> My name is Katerina <br/>
-I am an iOS Developer. </h4>
-</p>
+
+  <h2 align="crnter">Hi there 👋</h2> 
+<h4 align="crnter"> My name is Katerina <br/>
+I am an iOS Developer</h4>
 
 
 <p align="center">
