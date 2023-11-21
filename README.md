@@ -1,8 +1,11 @@
 <p align="center">
-  <h2>Hi there 👋</h2> 
+  <h2> Hi there 👋</h2> 
+</p>
+<p align="center">
 <h4> My name is Katerina <br/>
 I am an iOS Developer. </h4>
 </p>
+
 
 <p align="center">
 - 🍏 Swift, UIKit, SwiftUI <br/>
