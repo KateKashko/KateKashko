@@ -1,5 +1,5 @@
 
-  <h2 align="crnter">Hi there 👋</h2> 
+  <h2 align="crnter">Hi there!</h2> 
 <h4 align="crnter"> My name is Katerina <br/>
 I am an iOS Developer</h4>
 
