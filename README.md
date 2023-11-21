@@ -3,7 +3,7 @@
 I am an iOS Developer. </h3>
 
 <p>
-- 🍏 Swift, UIKit, SwiftUI
-- 🔗 Open to collaboration on interesting project
+- 🍏 Swift, UIKit, SwiftUI <br/>
+- 🔗 Open to collaboration on interesting project <br/>
 - 📫 Feel free to <a href="https://www.linkedin.com/in/katerina-karaoglu/">contact</a> me
 </p>
